@@ -6,3 +6,4 @@ commands:
   test:
   do:
     aliases:  ["do1", "do2"]
+  gm:
