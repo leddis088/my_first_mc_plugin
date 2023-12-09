@@ -1,0 +1,8 @@
+name: my_first_mc_plugin
+version: '${project.version}'
+main: at.leddis08.my_first_mc_plugin.My_first_mc_plugin
+api-version: '1.20'
+commands:
+  test:
+  do:
+    aliases:  ["do1", "do2"]
